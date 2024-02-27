@@ -1,0 +1,69 @@
+{
+  "users": {
+    "919744504738@s.whatsapp.net": {
+      "lang": "en",
+      "name": "☻SRIJISER 💘",
+      "weekly": 0,
+      "monthly": 0,
+      "daily": 0,
+      "money": 0,
+      "premium": false,
+      "coin": 0,
+      "doller": 0,
+      "diamond": 0,
+      "dmToken": 0,
+      "lastMessage": ".bot hehe"
+    },
+    "919539807118@s.whatsapp.net": {
+      "name": "BIG-SMOKE",
+      "weekly": 0,
+      "monthly": 0,
+      "daily": 0,
+      "lang": "en",
+      "money": 0,
+      "premium": false,
+      "coin": 0,
+      "doller": 0,
+      "diamond": 0,
+      "dmToken": 0
+    },
+    "919961538087@s.whatsapp.net": {
+      "name": "☻ S R I J I S E R  💘",
+      "weekly": 0,
+      "monthly": 0,
+      "daily": 0,
+      "lang": "en",
+      "money": 0,
+      "premium": false,
+      "coin": 0,
+      "doller": 0,
+      "diamond": 0,
+      "dmToken": 0,
+      "lastMessage": "Yeah"
+    }
+  },
+  "groups": {
+    "120363168282353688@g.us": {
+      "antiLink": false,
+      "antiBadWord": false,
+      "bannedGuys": []
+    },
+    "120363183617075736@g.us": {
+      "antiLink": false,
+      "antiBadWord": false,
+      "bannedGuys": []
+    },
+    "120363171084457764@g.us": {
+      "antiLink": false,
+      "antiBadWord": false,
+      "bannedGuys": []
+    },
+    "120363222370970832@g.us": {
+      "antiLink": false,
+      "antiBadWord": false,
+      "bannedGuys": []
+    }
+  },
+  "bot_settings": {},
+  "rooms": {}
+}
